@@ -2,6 +2,7 @@
 
 [![Docker Build](https://img.shields.io/docker/cloud/build/tstahn/ruby-sass)](https://img.shields.io/docker/cloud/build/tstahn/ruby-sass)
 [![License](https://img.shields.io/github/license/tstahn/docker-ruby-sass)](https://img.shields.io/github/license/tstahn/docker-ruby-sass)
+[![Tag](https://img.shields.io/github/v/tag/tstahn/docker-ruby-sass)](https://img.shields.io/github/v/tag/tstahn/docker-ruby-sass)
 
 Provides an environment for building assets with legacy Ruby Sass and Compass.
 
